@@ -1,6 +1,5 @@
 # supermall
 
-预览地址：https://waldener.github.io/supermarket
 
 ## Project setup
 ```
